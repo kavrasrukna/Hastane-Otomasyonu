@@ -1,0 +1,82 @@
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.csproj.AssemblyReference.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.Form1.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.hastalar.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.anasayfa.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.doktorlar.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.poliklinik.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.randevular.resources
+C:\Users\STUDENT1\Desktop\örneklerimiz\hastane\hastane\obj\Debug\hastane.raporlar.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.exe.config
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.exe
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.pdb
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.AssemblyReference.cache
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.SuggestedBindingRedirects.cache
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.anasayfa.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.doktorlar.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.Form1.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.hastalar.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.poliklinik.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.randevular.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.raporlar.resources
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.cache
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.CoreCompileInputs.cache
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.exe
+D:\DOSYALARIM\ERP\SQL\Hastane Otomasyonu(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.anasayfa.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.doktorlar.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.Form1.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.hastalar.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.poliklinik.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.randevular.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.raporlar.resources
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\HJP\Desktop\PROJELERİM VE CV\Projelerim\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.anasayfa.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.doktorlar.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.Form1.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.hastalar.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.poliklinik.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.randevular.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.raporlar.resources
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.cache
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\HJP\Desktop\PROJELER sql\Hastane Otomasyonu 1(ADO.NET Stored Procedure ile yapılmış CRUD işlemleri ve Sql raporlama işlemleri içermektedir.)\hastane\hastane\obj\Debug\hastane.pdb
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\bin\Debug\hastane.exe.config
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.csproj.AssemblyReference.cache
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.anasayfa.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.doktorlar.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.Form1.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.hastalar.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.poliklinik.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.Properties.Resources.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.randevular.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.raporlar.resources
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.csproj.GenerateResource.cache
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.exe
+C:\Users\HJP\Documents\GitHub\Hastane Otomasyonu 1(ADO.NET Stored Procedure)\hastane\hastane\obj\Debug\hastane.pdb
